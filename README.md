@@ -2,7 +2,7 @@
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thma&layout=compact&theme=dark&hide=javascript,html,python"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thma&layout=compact&theme=dark&hide=javascript,html,python,jupyter notebook"/>
 </a>
 
 <!--
