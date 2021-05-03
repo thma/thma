@@ -1,12 +1,8 @@
-<div>
-  <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thma&layout=compact&theme=dark&hide=javascript,html,python,jupyter notebook"/>
-  </div>
-  <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thma&repo=thma.github.io&theme=material-palenight" />
-  </div>
-</div>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thma&layout=compact&theme=material&hide=javascript,html,python,jupyter notebook"/>
 
+<a href="https://thma.github.io/">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=thma&repo=thma.github.io&theme=material-dark" />
+</a>
 
 <!--
 **thma/thma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
