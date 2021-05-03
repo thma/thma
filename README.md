@@ -1,7 +1,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thma&layout=compact&theme=material&hide=javascript,html,python,jupyter notebook"/>
 
 <a href="https://thma.github.io/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=thma&repo=thma.github.io&theme=material-dark" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=thma&repo=thma.github.io&theme=material" />
 </a>
 
 <!--
