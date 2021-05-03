@@ -4,7 +4,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thma&layout=compact&theme=dark&hide=javascript,html,python,jupyter notebook"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thma&repo=github-readme-stats&theme=material-palenight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thma&repo=thma.github.io&theme=material-palenight" />
 
 
 
