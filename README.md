@@ -1,3 +1,4 @@
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=thma&count_private=true&show_icons=true&theme=smaterial" />
 
 
 <a href="https://thma.github.io/">
@@ -5,6 +6,5 @@
 </a>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=thma&count_private=true&show_icons=true&theme=smaterial" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thma&layout=compact&theme=material&hide=javascript,html,python,jupyter notebook"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thma&layout=compact&theme=material&hide=javascript,html,python,jupyter notebook"/>
