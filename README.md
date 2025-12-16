@@ -1,3 +1,4 @@
+### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Embedding MicroHs](https://thma.github.io//posts/2025-08-30-Embedding-MicroHs.html)
 - [Real World REST APIs with Scotty and Generic-Persistence](https://thma.github.io//posts/2024-12-05-real-worlds-rest-services-with-scotty-and-gp.html)
