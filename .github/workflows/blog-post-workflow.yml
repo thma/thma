@@ -16,4 +16,4 @@ jobs:
       - name: Pull in github.io posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://thma.github.io"
+          feed_list: "https://thma.github.io/rss.xml"
